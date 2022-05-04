@@ -387,6 +387,10 @@ DOMAIN-SUFFIX,zmzapi.com
 DOMAIN-SUFFIX,zmzapi.net
 DOMAIN-SUFFIX,zmzfile.com
 
+# Private Tracker
+DOMAIN-KEYWORD,announce
+DOMAIN-KEYWORD,torrent
+DOMAIN-KEYWORD,tracker
 
 # TeamViewer
 DOMAIN-SUFFIX,teamviewer.com
