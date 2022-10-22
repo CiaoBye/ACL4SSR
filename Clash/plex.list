@@ -1,4 +1,5 @@
 # Plex
 DOMAIN-KEYWORD,lastfm
 DOMAIN-SUFFIX,lastfm.freetls.fastly.net
+DOMAIN-SUFFIX,kerve.last.fm
 DOMAIN-SUFFIX,last.fm
