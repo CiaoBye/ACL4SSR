@@ -5,7 +5,9 @@ DOMAIN-SUFFIX,kerve.last.fm
 DOMAIN-SUFFIX,last.fm
 DOMAIN-SUFFIX,metadata-static.plex.tv
 DOMAIN-SUFFIX,metadata.provider.plex.tv
-DOMAIN-KEYWORD,plex.tv
-DOMAIN-SUFFIX,plex.tv
-DOMAIN-KEYWORD,app.plex.tv
-DOMAIN-SUFFIX,app.plex.tv
+#DOMAIN-KEYWORD,plex.tv
+#DOMAIN-SUFFIX,plex.tv
+#DOMAIN-KEYWORD,app.plex.tv
+#DOMAIN-SUFFIX,app.plex.tv
+DOMAIN-KEYWORD,themoviedb.org
+DOMAIN-KEYWORD,tmdb.org
